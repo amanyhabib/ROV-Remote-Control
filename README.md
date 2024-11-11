@@ -136,6 +136,8 @@ The Raspberry Pi will send the respective serial command to the Arduino Mega, wh
 ## File Descriptions
 
 - **ROV-V5.ino**: Main Arduino sketch to control motors and receive serial commands.
+- ![photo_2024-11-11_01-55-14 (2)](https://github.com/user-attachments/assets/bdee8922-2029-4fb4-931d-a7cfb57ce365)
+
 - **motorcontrol.cpp**: Contains the MotorControl class for managing motor directions and speed.
 - **motorcontrol.h**: Header file defining motor control functions and pin configurations.
 - **Raspberry Pi Control Script**: Python script (`control_rov.py`) for Raspberry Pi to send commands to the Arduino based on joystick input.
