@@ -1,0 +1,53 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "amanyhabib",
+      "name": "Amany Habib",
+      "avatar_url": "https://avatars.githubusercontent.com/u/159341041?v=4",
+      "profile": "https://github.com/amanyhabib",
+      "contributions": [
+        "ROV-V5-code"
+      ]
+    },
+    {
+      "login": "shahdnasr1",
+      "name": "Shahd Nasr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187919683?v=4",
+      "profile": "https://github.com/shahdnasr1",
+      "contributions": [
+        "ROV-V5-code"
+      ]
+    },
+    {
+      "login": "Ayamohamed2003",
+      "name": "Aya Mohamed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161630594?v=4",
+      "profile": "https://github.com/Ayamohamed2003",
+      "contributions": [
+        "Raspberry-pi-control-code"
+      ]
+    },
+    {
+      "login": "AmiraSayedMohamed",
+      "name": "Amira Sayed Mohamed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99423625?v=4",
+      "profile": "https://github.com/AmiraSayedMohamed",
+      "contributions": [
+        "Raspberry-pi-control-code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "ROV-Remote-Control",
+  "projectOwner": "amanyhabib"
+}
