@@ -1,0 +1,53 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "amanyhabib",
+      "name": "Amany Habib",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12345678?v=4",
+      "profile": "https://github.com/amanyhabib",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "shahdnasr1",
+      "name": "Shahd Nasr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23456789?v=4",
+      "profile": "https://github.com/shahdnasr1",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Ayamohamed2003",
+      "name": "Aya Mohamed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34567890?v=4",
+      "profile": "https://github.com/Ayamohamed2003",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "AmiraSayedMohamed",
+      "name": "Amira Sayed Mohamed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45678901?v=4",
+      "profile": "https://github.com/AmiraSayedMohamed",
+      "contributions": [
+        "documentation"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "ROV-Remote-Control",
+  "projectOwner": "amanyhabib"
+}
