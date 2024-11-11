@@ -13,8 +13,8 @@ two **brushless T100 thrusters** for vertical control.
 <!-- markdownlint-disable -->
 <table>
   <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/amanyhabib"><img src="https://avatars.githubusercontent.com/u/148654460?v=4?s=100" width="100px;" alt="Amany Habib"/><br /><sub><b>Amany Habib</b></sub></a><br /><a href="#infra-Amany-Habib" title="Code">💻</a></td>
+    <tr> https://avatars.githubusercontent.com/u/159341041?s=96&v=4
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/amanyhabib"><img src="https://avatars.githubusercontent.com/u/159341041?s=96&v=4" width="100px;" alt="Amany Habib"/><br /><sub><b>Amany Habib</b></sub></a><br /><a href="#infra-Amany-Habib" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/shahdnasr1"><img src="https://avatars.githubusercontent.com/u/111206091?v=4?s=100" width="100px;" alt="Shahd Nasr"/><br /><sub><b>Shahd Nasr</b></sub></a><br /><a href="#tests-Shahd-Nasr" title="Tests">⚠</a> <a href="#code-Shahd-Nasr" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Ayamohamed2003"><img src="https://avatars.githubusercontent.com/u/160287704?v=4?s=100" width="100px;" alt="Aya Mohamed"/><br /><sub><b>Aya Mohamed</b></sub></a><br /><a href="#code-Aya-Mohamed" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/AmiraSayedMohamed"><img src="https://avatars.githubusercontent.com/u/99215076?v=4?s=100" width="100px;" alt="Amira Sayed Mohamed"/><br /><sub><b>Amira Sayed Mohamed</b></sub></a><br /><a href="#code-Amira-Sayed-Mohamed" title="Code">💻</a></td>
